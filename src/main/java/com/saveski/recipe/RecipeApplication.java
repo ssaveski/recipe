@@ -1,4 +1,4 @@
-package com.saveski.recipe.recipe;
+package com.saveski.recipe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

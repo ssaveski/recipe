@@ -1,4 +1,4 @@
-package com.saveski.recipe.recipe;
+package com.saveski.recipe;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
