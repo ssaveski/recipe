@@ -16,6 +16,8 @@ public class Recipe {
     private Integer cookTime;
     private String source;
     private String url;
+    private Integer servings;
+
 
     @Lob
     private String directions;
@@ -113,6 +115,14 @@ public class Recipe {
 
     public Notes getNotes() {
         return notes;
+    }
+
+    public Integer getServings() {
+        return servings;
+    }
+
+    public void setServings(Integer servings) {
+        this.servings = servings;
     }
 
     public void setNotes(Notes notes) {
